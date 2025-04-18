@@ -1,0 +1,7 @@
+plan_id,plan_name,speed,technology,monthly_price
+PLAN1,FiberX Unlimited,100 Mbps,DSL,56.7
+PLAN2,SpeedNet Basic,300 Mbps,DSL,72.21
+PLAN3,StreamMore 300,300 Mbps,Fiber,66.46
+PLAN4,ZoomFiber 1000,100 Mbps,Cable,71.58
+PLAN5,ConnectMax DSL,100 Mbps,Fiber,40.57
+PLAN6,EconoLink,1 Gbps,DSL,62.0

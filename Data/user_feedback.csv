@@ -1,0 +1,301 @@
+feedback_id,session_id,page_url,rating,comments
+F0000,SID00386,/page/1,3,Could be better organized
+F0001,SID00893,/page/1,5,Very helpful site
+F0002,SID01932,/page/2,5,Very helpful site
+F0003,SID01733,/page/3,5,Super fast and easy
+F0004,SID01338,/page/2,4,Pretty quick overall
+F0005,SID00037,/page/5,2,Didn't trust the site
+F0006,SID01364,/page/4,1,Page took forever to load
+F0007,SID00850,/page/1,2,Plan info unclear
+F0008,SID00728,/page/2,5,Super fast and easy
+F0009,SID00230,/page/3,4,ZIP entry was smooth
+F0010,SID00451,/page/2,5,Super fast and easy
+F0011,SID01365,/page/1,4,Worked fine on mobile
+F0012,SID01476,/page/5,4,Pretty quick overall
+F0013,SID00256,/page/5,1,Couldn't find my ZIP code
+F0014,SID00433,/page/2,2,Plan info unclear
+F0015,SID00208,/page/1,3,Could be better organized
+F0016,SID01224,/page/3,4,Pretty quick overall
+F0017,SID00136,/page/1,2,Didn't trust the site
+F0018,SID01663,/page/4,5,Very helpful site
+F0019,SID00564,/page/1,3,Could be better organized
+F0020,SID00855,/page/1,5,Best ISP info I've seen
+F0021,SID01417,/page/1,1,Page took forever to load
+F0022,SID01619,/page/1,4,ZIP entry was smooth
+F0023,SID00720,/page/3,3,"It's okay, but felt cluttered"
+F0024,SID00844,/page/2,5,Super fast and easy
+F0025,SID01820,/page/2,3,"It's okay, but felt cluttered"
+F0026,SID00035,/page/4,4,Pretty quick overall
+F0027,SID01238,/page/2,5,Super fast and easy
+F0028,SID00026,/page/2,1,Form was broken
+F0029,SID01681,/page/3,1,Couldn't find my ZIP code
+F0030,SID00017,/page/4,5,Super fast and easy
+F0031,SID00629,/page/2,4,Pretty quick overall
+F0032,SID01160,/page/2,3,Slow but usable
+F0033,SID00578,/page/4,4,Pretty quick overall
+F0034,SID00902,/page/2,1,Couldn't find my ZIP code
+F0035,SID01849,/page/2,2,Didn't trust the site
+F0036,SID00974,/page/3,3,"It's okay, but felt cluttered"
+F0037,SID01053,/page/4,5,Very helpful site
+F0038,SID01096,/page/1,4,Pretty quick overall
+F0039,SID00122,/page/3,4,Worked fine on mobile
+F0040,SID00956,/page/3,5,Very helpful site
+F0041,SID01000,/page/5,3,Could be better organized
+F0042,SID00986,/page/2,4,Worked fine on mobile
+F0043,SID01251,/page/5,5,Super fast and easy
+F0044,SID00337,/page/2,2,Plan info unclear
+F0045,SID00990,/page/5,3,Could be better organized
+F0046,SID00272,/page/4,5,Loved the comparison tool
+F0047,SID01781,/page/3,5,Very helpful site
+F0048,SID01460,/page/3,2,Too many plans listed
+F0049,SID00901,/page/1,1,Form was broken
+F0050,SID00038,/page/2,3,Could be better organized
+F0051,SID01944,/page/2,3,Slow but usable
+F0052,SID00681,/page/3,3,Slow but usable
+F0053,SID00425,/page/1,4,Easy to find plans
+F0054,SID00314,/page/4,5,Loved the comparison tool
+F0055,SID00613,/page/4,3,"It's okay, but felt cluttered"
+F0056,SID01829,/page/3,5,Very helpful site
+F0057,SID01532,/page/5,1,Mobile view is terrible
+F0058,SID01950,/page/3,1,Page took forever to load
+F0059,SID00754,/page/3,4,Easy to find plans
+F0060,SID00156,/page/2,1,Page took forever to load
+F0061,SID00871,/page/4,3,Slow but usable
+F0062,SID00776,/page/3,5,Very helpful site
+F0063,SID00256,/page/2,2,Confusing layout
+F0064,SID01999,/page/3,4,Pretty quick overall
+F0065,SID01893,/page/4,3,"It's okay, but felt cluttered"
+F0066,SID00854,/page/1,1,Couldn't find my ZIP code
+F0067,SID00634,/page/5,4,Worked fine on mobile
+F0068,SID00455,/page/5,5,Best ISP info I've seen
+F0069,SID00046,/page/4,3,Could be better organized
+F0070,SID01355,/page/4,4,Worked fine on mobile
+F0071,SID00009,/page/3,5,Loved the comparison tool
+F0072,SID00143,/page/5,5,Very helpful site
+F0073,SID01454,/page/4,2,Didn't trust the site
+F0074,SID01834,/page/3,4,Worked fine on mobile
+F0075,SID01175,/page/2,4,Easy to find plans
+F0076,SID00486,/page/4,4,Easy to find plans
+F0077,SID01159,/page/3,4,Worked fine on mobile
+F0078,SID01610,/page/5,2,Plan info unclear
+F0079,SID01896,/page/2,4,Easy to find plans
+F0080,SID01049,/page/3,4,ZIP entry was smooth
+F0081,SID01030,/page/5,4,ZIP entry was smooth
+F0082,SID00590,/page/2,5,Loved the comparison tool
+F0083,SID01038,/page/1,5,Very helpful site
+F0084,SID01455,/page/3,4,Easy to find plans
+F0085,SID00898,/page/3,4,ZIP entry was smooth
+F0086,SID01423,/page/4,4,Worked fine on mobile
+F0087,SID00206,/page/4,4,ZIP entry was smooth
+F0088,SID01624,/page/2,5,Super fast and easy
+F0089,SID01632,/page/2,4,ZIP entry was smooth
+F0090,SID00909,/page/3,3,Slow but usable
+F0091,SID01239,/page/2,4,Easy to find plans
+F0092,SID01525,/page/2,4,ZIP entry was smooth
+F0093,SID01482,/page/1,4,Worked fine on mobile
+F0094,SID00258,/page/2,4,ZIP entry was smooth
+F0095,SID01352,/page/1,2,Didn't trust the site
+F0096,SID00453,/page/2,1,Mobile view is terrible
+F0097,SID00798,/page/1,3,Slow but usable
+F0098,SID00374,/page/5,3,Slow but usable
+F0099,SID00463,/page/2,1,Mobile view is terrible
+F0100,SID00074,/page/4,5,Best ISP info I've seen
+F0101,SID00241,/page/2,3,Slow but usable
+F0102,SID01040,/page/4,5,Super fast and easy
+F0103,SID01712,/page/3,2,Too many plans listed
+F0104,SID01282,/page/4,1,Couldn't find my ZIP code
+F0105,SID00122,/page/3,4,Pretty quick overall
+F0106,SID01334,/page/5,2,Plan info unclear
+F0107,SID00110,/page/5,5,Best ISP info I've seen
+F0108,SID01279,/page/3,1,Page took forever to load
+F0109,SID00233,/page/5,3,Slow but usable
+F0110,SID00967,/page/2,5,Super fast and easy
+F0111,SID00496,/page/2,3,Could be better organized
+F0112,SID01891,/page/3,1,Couldn't find my ZIP code
+F0113,SID01063,/page/3,3,Slow but usable
+F0114,SID01145,/page/5,4,Easy to find plans
+F0115,SID01473,/page/1,2,Plan info unclear
+F0116,SID00726,/page/2,4,ZIP entry was smooth
+F0117,SID01831,/page/2,5,Best ISP info I've seen
+F0118,SID01821,/page/2,5,Super fast and easy
+F0119,SID01816,/page/4,1,Form was broken
+F0120,SID01542,/page/3,2,Confusing layout
+F0121,SID00091,/page/2,3,Slow but usable
+F0122,SID01384,/page/2,4,Worked fine on mobile
+F0123,SID01969,/page/3,3,Slow but usable
+F0124,SID01146,/page/4,5,Best ISP info I've seen
+F0125,SID00336,/page/3,4,Easy to find plans
+F0126,SID01631,/page/2,2,Plan info unclear
+F0127,SID00512,/page/4,4,ZIP entry was smooth
+F0128,SID00602,/page/4,2,Confusing layout
+F0129,SID00427,/page/3,3,"It's okay, but felt cluttered"
+F0130,SID01456,/page/4,2,Confusing layout
+F0131,SID00006,/page/2,2,Confusing layout
+F0132,SID00119,/page/2,4,Pretty quick overall
+F0133,SID00386,/page/4,4,Worked fine on mobile
+F0134,SID01373,/page/4,2,Confusing layout
+F0135,SID00640,/page/4,5,Best ISP info I've seen
+F0136,SID01714,/page/3,3,"It's okay, but felt cluttered"
+F0137,SID01121,/page/3,1,Mobile view is terrible
+F0138,SID01957,/page/5,2,Confusing layout
+F0139,SID01066,/page/5,4,Worked fine on mobile
+F0140,SID00182,/page/4,5,Very helpful site
+F0141,SID00696,/page/5,4,Pretty quick overall
+F0142,SID00564,/page/1,5,Very helpful site
+F0143,SID01763,/page/4,3,"It's okay, but felt cluttered"
+F0144,SID01696,/page/4,3,Could be better organized
+F0145,SID01258,/page/2,4,Easy to find plans
+F0146,SID01999,/page/3,4,Easy to find plans
+F0147,SID00445,/page/5,3,Could be better organized
+F0148,SID01893,/page/2,5,Very helpful site
+F0149,SID01930,/page/4,1,Mobile view is terrible
+F0150,SID00199,/page/4,3,"It's okay, but felt cluttered"
+F0151,SID00947,/page/1,4,Pretty quick overall
+F0152,SID00512,/page/4,4,Easy to find plans
+F0153,SID01549,/page/3,3,Slow but usable
+F0154,SID00989,/page/5,3,"It's okay, but felt cluttered"
+F0155,SID00212,/page/3,4,Pretty quick overall
+F0156,SID01401,/page/3,4,Worked fine on mobile
+F0157,SID01812,/page/1,5,Very helpful site
+F0158,SID00545,/page/2,4,Pretty quick overall
+F0159,SID00485,/page/3,3,Slow but usable
+F0160,SID01384,/page/1,5,Best ISP info I've seen
+F0161,SID01805,/page/3,5,Best ISP info I've seen
+F0162,SID00167,/page/1,3,Slow but usable
+F0163,SID00889,/page/3,2,Confusing layout
+F0164,SID00930,/page/1,3,Could be better organized
+F0165,SID01705,/page/2,4,Worked fine on mobile
+F0166,SID01617,/page/1,5,Loved the comparison tool
+F0167,SID01427,/page/2,5,Super fast and easy
+F0168,SID00827,/page/4,5,Loved the comparison tool
+F0169,SID00136,/page/3,3,Slow but usable
+F0170,SID01256,/page/4,4,Pretty quick overall
+F0171,SID00114,/page/5,3,Could be better organized
+F0172,SID01275,/page/5,2,Too many plans listed
+F0173,SID01516,/page/1,4,Worked fine on mobile
+F0174,SID01312,/page/3,2,Confusing layout
+F0175,SID01072,/page/1,4,Pretty quick overall
+F0176,SID01475,/page/5,4,ZIP entry was smooth
+F0177,SID00515,/page/4,5,Super fast and easy
+F0178,SID01914,/page/3,2,Confusing layout
+F0179,SID00687,/page/4,5,Very helpful site
+F0180,SID01019,/page/1,5,Best ISP info I've seen
+F0181,SID01295,/page/3,5,Loved the comparison tool
+F0182,SID01454,/page/4,5,Super fast and easy
+F0183,SID01049,/page/2,4,Easy to find plans
+F0184,SID01093,/page/3,3,Could be better organized
+F0185,SID00292,/page/5,4,Pretty quick overall
+F0186,SID01429,/page/1,4,ZIP entry was smooth
+F0187,SID01257,/page/5,4,Pretty quick overall
+F0188,SID00230,/page/2,5,Best ISP info I've seen
+F0189,SID01286,/page/3,3,Slow but usable
+F0190,SID00937,/page/3,2,Too many plans listed
+F0191,SID01821,/page/5,4,Easy to find plans
+F0192,SID01609,/page/2,3,Slow but usable
+F0193,SID01144,/page/3,3,Could be better organized
+F0194,SID01486,/page/1,1,Form was broken
+F0195,SID00517,/page/2,3,Slow but usable
+F0196,SID01047,/page/4,5,Super fast and easy
+F0197,SID00705,/page/3,4,ZIP entry was smooth
+F0198,SID01703,/page/4,1,Form was broken
+F0199,SID00376,/page/1,4,Pretty quick overall
+F0200,SID01523,/page/2,3,"It's okay, but felt cluttered"
+F0201,SID01934,/page/3,4,Easy to find plans
+F0202,SID00436,/page/1,3,"It's okay, but felt cluttered"
+F0203,SID00852,/page/5,5,Very helpful site
+F0204,SID01745,/page/5,1,Mobile view is terrible
+F0205,SID01668,/page/5,4,Worked fine on mobile
+F0206,SID01880,/page/5,5,Very helpful site
+F0207,SID01827,/page/4,5,Best ISP info I've seen
+F0208,SID00969,/page/3,2,Confusing layout
+F0209,SID00498,/page/3,4,Pretty quick overall
+F0210,SID01197,/page/4,1,Form was broken
+F0211,SID01686,/page/4,4,ZIP entry was smooth
+F0212,SID00599,/page/2,2,Plan info unclear
+F0213,SID01836,/page/4,5,Loved the comparison tool
+F0214,SID01532,/page/4,2,Didn't trust the site
+F0215,SID00777,/page/5,4,Easy to find plans
+F0216,SID01333,/page/4,4,Easy to find plans
+F0217,SID00069,/page/1,5,Very helpful site
+F0218,SID00204,/page/5,4,ZIP entry was smooth
+F0219,SID00340,/page/3,3,Slow but usable
+F0220,SID01055,/page/3,2,Didn't trust the site
+F0221,SID01066,/page/4,2,Plan info unclear
+F0222,SID00117,/page/2,5,Super fast and easy
+F0223,SID00888,/page/5,4,ZIP entry was smooth
+F0224,SID00014,/page/5,4,Pretty quick overall
+F0225,SID01345,/page/4,1,Mobile view is terrible
+F0226,SID00910,/page/3,5,Super fast and easy
+F0227,SID00626,/page/2,4,Worked fine on mobile
+F0228,SID01360,/page/5,5,Best ISP info I've seen
+F0229,SID01555,/page/4,4,ZIP entry was smooth
+F0230,SID00689,/page/1,3,Could be better organized
+F0231,SID00773,/page/4,3,"It's okay, but felt cluttered"
+F0232,SID01614,/page/2,2,Too many plans listed
+F0233,SID01404,/page/5,4,Easy to find plans
+F0234,SID01534,/page/2,4,Pretty quick overall
+F0235,SID00912,/page/4,2,Too many plans listed
+F0236,SID00119,/page/3,2,Plan info unclear
+F0237,SID00025,/page/4,1,Couldn't find my ZIP code
+F0238,SID01557,/page/3,5,Very helpful site
+F0239,SID01736,/page/1,2,Didn't trust the site
+F0240,SID00063,/page/3,3,Could be better organized
+F0241,SID00459,/page/5,3,Could be better organized
+F0242,SID01749,/page/4,3,Could be better organized
+F0243,SID00313,/page/4,4,ZIP entry was smooth
+F0244,SID00804,/page/4,5,Best ISP info I've seen
+F0245,SID01613,/page/4,2,Didn't trust the site
+F0246,SID01239,/page/2,4,ZIP entry was smooth
+F0247,SID01479,/page/3,3,Slow but usable
+F0248,SID00985,/page/5,5,Super fast and easy
+F0249,SID00735,/page/4,3,Slow but usable
+F0250,SID00888,/page/1,1,Couldn't find my ZIP code
+F0251,SID01563,/page/5,4,Worked fine on mobile
+F0252,SID00981,/page/4,2,Plan info unclear
+F0253,SID01840,/page/2,1,Mobile view is terrible
+F0254,SID01736,/page/5,4,Easy to find plans
+F0255,SID00578,/page/2,4,ZIP entry was smooth
+F0256,SID01496,/page/5,4,Easy to find plans
+F0257,SID01382,/page/1,4,Worked fine on mobile
+F0258,SID01149,/page/5,4,Pretty quick overall
+F0259,SID00971,/page/2,4,ZIP entry was smooth
+F0260,SID00860,/page/1,4,Worked fine on mobile
+F0261,SID00706,/page/1,4,Pretty quick overall
+F0262,SID01960,/page/5,2,Plan info unclear
+F0263,SID01709,/page/2,3,Could be better organized
+F0264,SID01110,/page/4,3,"It's okay, but felt cluttered"
+F0265,SID01366,/page/2,3,Slow but usable
+F0266,SID01846,/page/4,5,Loved the comparison tool
+F0267,SID00394,/page/2,3,Could be better organized
+F0268,SID00483,/page/2,2,Didn't trust the site
+F0269,SID00665,/page/1,3,Slow but usable
+F0270,SID00455,/page/2,2,Confusing layout
+F0271,SID01499,/page/4,4,Worked fine on mobile
+F0272,SID00209,/page/5,4,ZIP entry was smooth
+F0273,SID00524,/page/2,4,Worked fine on mobile
+F0274,SID00675,/page/4,3,"It's okay, but felt cluttered"
+F0275,SID01001,/page/5,5,Super fast and easy
+F0276,SID01790,/page/2,5,Very helpful site
+F0277,SID00895,/page/4,4,ZIP entry was smooth
+F0278,SID01003,/page/1,5,Super fast and easy
+F0279,SID01599,/page/4,4,Easy to find plans
+F0280,SID00306,/page/4,5,Best ISP info I've seen
+F0281,SID01099,/page/4,5,Super fast and easy
+F0282,SID01045,/page/5,5,Very helpful site
+F0283,SID00059,/page/5,4,Easy to find plans
+F0284,SID00385,/page/4,5,Super fast and easy
+F0285,SID00055,/page/1,4,Worked fine on mobile
+F0286,SID00167,/page/4,3,Slow but usable
+F0287,SID01435,/page/1,3,Could be better organized
+F0288,SID00716,/page/4,5,Very helpful site
+F0289,SID00864,/page/4,1,Mobile view is terrible
+F0290,SID01794,/page/1,4,Easy to find plans
+F0291,SID01214,/page/3,3,"It's okay, but felt cluttered"
+F0292,SID00481,/page/1,3,Could be better organized
+F0293,SID01942,/page/3,5,Loved the comparison tool
+F0294,SID01590,/page/3,5,Best ISP info I've seen
+F0295,SID01439,/page/2,4,ZIP entry was smooth
+F0296,SID00339,/page/2,3,Slow but usable
+F0297,SID00795,/page/1,4,Pretty quick overall
+F0298,SID00891,/page/1,3,Slow but usable
+F0299,SID00775,/page/4,3,Slow but usable
