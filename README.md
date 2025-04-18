@@ -22,19 +22,19 @@ With a plan in place, I created a Trello board and started planning out tickets,
 
 Although I have experience with using APIs and Web Scraping to extract data, that felt too far beyond my job responsibilities to justify all the extra work. Because of this, I deicded to use synthetic data generated from ChatGPT. This did cause some issues (more on that later), but you can view the tables it created in the [Data Folder](Data/). You can also check out my ERD [here.](Visuals/ERD.png)
 
-To publicly host the database (which is required for Looker), I created a Postgres RDS instance. From there, I used SQL to [Create the tables](SQL/create_database.sql) and uploaded the CSVs inside DBeaver.
+To publicly host the database (which is required for Looker), I created a Postgres RDS instance. From there, I used SQL to [create the tables](SQL/create_database.sql) and uploaded the CSVs inside DBeaver.
 
 ### 3. Exploratory Data Analysis (EDA)
 
-I conducted EDA using SQL to generate insights. I followed a clear format of asking a relevant business question, creating an expected output from my analysis, coding the solution, analyzing the result, and continuing on any follow up analysis that could help explain the data. To see my full analysis, [click here](SQL/EDA.SQL) (most of my analysis ultimately did not turn into visualizations).
+I conducted EDA using SQL to generate insights. I followed a clear format of asking a relevant business question, creating an expected output from my analysis, coding the solution, analyzing the result, and continuing on any follow up analysis that could help explain the data. To see my full analysis, [click here](SQL/EDA.sql) (most of my analysis ultimately did not turn into visualizations).
 
 ### 4. Creating Looker Dashboard
 
-For the first part of my analysis, I wanted to create a general dashboard to track performance for a specific product (in this case, plans). Because of how small the data model was, I used one Looker data source for the whole report, which can be [seen here](SQL/Plan_Dashboard). With the data source created, I made a [simple dashboard](https://lookerstudio.google.com/reporting/c01857a2-735a-4fdd-aa11-5c88c66c2184). These interactive visuals and filters enable stakeholders to assess product performance across various verticals.
+For the first part of my analysis, I wanted to create a general dashboard to track performance for a specific product (in this case, plans). Because of how small the data model was, I used one Looker data source for the whole report, which can be [seen here](SQL/Plan_Dashboard.sql). With the data source created, I made a [simple dashboard](https://lookerstudio.google.com/reporting/c01857a2-735a-4fdd-aa11-5c88c66c2184). These interactive visuals and filters enable stakeholders to assess product performance across various verticals.
 
 ### 5. Visualizing Tailored Insights
 
-While the Looker dashboard is great at providing flexibility, I wanted to also create tailored visuals that could be used in a presentation for stakeholders. I used excel to accomplish this by extracting key queries from my SQL analysis and [transforming them in Excel](Visuals/EDA_Analysis.xslx) to create focused visuals. I used this to [create a slideshow](https://docs.google.com/presentation/d/1dRfCK8D86d85M3UvbVXXQDfnP_zTiwXUcFWEIbFwrzw/edit?usp=sharing) which highlights the main takeaways from the data in the project and shows actionable insights.
+While the Looker dashboard is great at providing flexibility, I wanted to also create tailored visuals that could be used in a presentation for stakeholders. I used excel to accomplish this by extracting key queries from my SQL analysis and [transforming them in Excel](Visuals/EDA_Analysis.xlsx) to create focused visuals. I used this to [create a slideshow](https://docs.google.com/presentation/d/1dRfCK8D86d85M3UvbVXXQDfnP_zTiwXUcFWEIbFwrzw/edit?usp=sharing) which highlights the main takeaways from the data in the project and shows actionable insights.
 
 ## Key Lessons from Project
 
